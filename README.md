@@ -1,5 +1,5 @@
 # AzureCLICommonCmdBatch
-Bath files to streamline common activities DevOps do to manage their Azure infrastructure
+Bash files to streamline common activities DevOps do to manage their Azure infrastructure
 
 Examples:
 * Add/edit SQL server firewall
